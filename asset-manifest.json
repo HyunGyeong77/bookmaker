@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bookmaker/static/css/main.ff1693a5.css",
-    "main.js": "/bookmaker/static/js/main.b28ebb7f.js",
+    "main.js": "/bookmaker/static/js/main.7c4e3dca.js",
     "static/js/453.345fd97f.chunk.js": "/bookmaker/static/js/453.345fd97f.chunk.js",
     "index.html": "/bookmaker/index.html",
     "main.ff1693a5.css.map": "/bookmaker/static/css/main.ff1693a5.css.map",
-    "main.b28ebb7f.js.map": "/bookmaker/static/js/main.b28ebb7f.js.map",
+    "main.7c4e3dca.js.map": "/bookmaker/static/js/main.7c4e3dca.js.map",
     "453.345fd97f.chunk.js.map": "/bookmaker/static/js/453.345fd97f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff1693a5.css",
-    "static/js/main.b28ebb7f.js"
+    "static/js/main.7c4e3dca.js"
   ]
 }
